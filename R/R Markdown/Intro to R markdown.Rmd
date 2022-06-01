@@ -1,0 +1,6 @@
+---
+title: "Introduction to R Markdown"
+author: "Ada Lazuli"
+date: '`r format(Sys.Date(), "%d %B %Y")`'
+output: html_document
+---
